@@ -5,3 +5,15 @@ h1{
 h2{
     color: red;
 }
+
+.mysection{
+    background-image: url(../GitPractice/assests/jaws.jpg);
+    width: 50em;
+    height:50em;
+}
+
+.imgsize{
+    height: 80px;
+    width: 80px;
+    border-radius: 15px;
+}
